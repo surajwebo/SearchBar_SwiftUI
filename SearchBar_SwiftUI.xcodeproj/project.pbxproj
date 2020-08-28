@@ -13,6 +13,7 @@
 		446D670324EFA56B004B7749 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 446D670224EFA56B004B7749 /* Assets.xcassets */; };
 		446D670624EFA56B004B7749 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 446D670524EFA56B004B7749 /* Preview Assets.xcassets */; };
 		446D670924EFA56B004B7749 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 446D670724EFA56B004B7749 /* LaunchScreen.storyboard */; };
+		446D671124EFA589004B7749 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 446D671024EFA589004B7749 /* SearchBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		446D670524EFA56B004B7749 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		446D670824EFA56B004B7749 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		446D670A24EFA56B004B7749 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		446D671024EFA589004B7749 /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				446D66FC24EFA561004B7749 /* AppDelegate.swift */,
 				446D66FE24EFA561004B7749 /* SceneDelegate.swift */,
 				446D670024EFA561004B7749 /* ContentView.swift */,
+				446D671024EFA589004B7749 /* SearchBar.swift */,
 				446D670224EFA56B004B7749 /* Assets.xcassets */,
 				446D670724EFA56B004B7749 /* LaunchScreen.storyboard */,
 				446D670A24EFA56B004B7749 /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				446D66FD24EFA561004B7749 /* AppDelegate.swift in Sources */,
+				446D671124EFA589004B7749 /* SearchBar.swift in Sources */,
 				446D66FF24EFA561004B7749 /* SceneDelegate.swift in Sources */,
 				446D670124EFA561004B7749 /* ContentView.swift in Sources */,
 			);
